@@ -1,5 +1,5 @@
-package barbershop;
+package booking;
 
 public interface Appointment {
-
+  
 }
