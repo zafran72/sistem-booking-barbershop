@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T16:08:35.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M-3YM7siN2wdbGAYFB47" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T16:09:05.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PIMjflyePXvlIM7CNXSI" version="21.1.2" type="github">
   <diagram name="Page-1" id="e83HKf7RWmsdnY4JT9HV">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,11 +26,11 @@
         <mxCell id="6MyWgIJ_fV0MqRkFgCzK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MyWgIJ_fV0MqRkFgCzK-1" target="6MyWgIJ_fV0MqRkFgCzK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MyWgIJ_fV0MqRkFgCzK-1" target="6MyWgIJ_fV0MqRkFgCzK-5">
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MyWgIJ_fV0MqRkFgCzK-1" target="6MyWgIJ_fV0MqRkFgCzK-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="170" />
-              <mxPoint x="240" y="115" />
+              <mxPoint x="240" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,7 +44,7 @@
           <mxGeometry x="650" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6MyWgIJ_fV0MqRkFgCzK-5" value="Memilih Barbershop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="90" width="230" height="50" as="geometry" />
+          <mxGeometry x="310" y="80" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6MyWgIJ_fV0MqRkFgCzK-6" value="Memilih Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="145" width="230" height="50" as="geometry" />
