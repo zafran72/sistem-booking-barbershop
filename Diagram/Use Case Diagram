@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-04-01T15:44:50.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.2" etag="l7Ac3peyXIoM0-gCbllP" type="github"><diagram name="Page-1" id="e83HKf7RWmsdnY4JT9HV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-04-01T15:56:51.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="V5UKFzWB3ocGc4ncqTrB" version="21.1.2" type="github">
+  <diagram name="Page-1" id="e83HKf7RWmsdnY4JT9HV">
+    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-4" value="Barber" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-5" value="Memilih Barbershop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-6" value="Memilih Service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-7" value="Melakukan Pemesanan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-8" value="Melakukan Pembayaran" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6MyWgIJ_fV0MqRkFgCzK-9" value="Menerima / menolak Pemesanan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
