@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T01:46:27.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="F4n7w9flrtyv6nqFM5i_" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T01:47:19.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hqDZqhwq7X9m34jqP5hk" version="21.1.5" type="github">
   <diagram name="Page-1" id="QzmIClkiWC_pqr0MoqE9">
     <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="_Sh0xL7N-RvuIjmmcohQ-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="_Sh0xL7N-RvuIjmmcohQ-17" vertex="1">
           <mxGeometry y="40" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_Sh0xL7N-RvuIjmmcohQ-20" value="+ getLokasi()&lt;br&gt;+ getListBarbershop()&lt;br&gt;+ getRating()&lt;br&gt;+ pilihBarbershop()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="_Sh0xL7N-RvuIjmmcohQ-17" vertex="1">
+        <mxCell id="_Sh0xL7N-RvuIjmmcohQ-20" value="+ getLocation()&lt;br&gt;+ getListBarbershop()&lt;br&gt;+ getRating()&lt;br&gt;+ chooseBarbershop()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="_Sh0xL7N-RvuIjmmcohQ-17" vertex="1">
           <mxGeometry y="48" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="_Sh0xL7N-RvuIjmmcohQ-21" value="System Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
