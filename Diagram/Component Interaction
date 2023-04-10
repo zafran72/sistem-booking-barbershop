@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T02:39:05.148Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.2" etag="z7f7IV9O8TXFBWxF4Fv2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T02:53:18.218Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Kcx4pWx4ukGomv5AoSsS" version="21.1.2" type="github">
   <diagram name="Page-1" id="lrZoQNFkLvRl8sedOQyJ">
-    <mxGraphModel>
+    <mxGraphModel dx="822" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6l9QjjrSsujgZHUUQO98-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6l9QjjrSsujgZHUUQO98-1" target="6l9QjjrSsujgZHUUQO98-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l9QjjrSsujgZHUUQO98-1" value="/ICustomerMgt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l9QjjrSsujgZHUUQO98-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l9QjjrSsujgZHUUQO98-2" target="6l9QjjrSsujgZHUUQO98-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l9QjjrSsujgZHUUQO98-2" value="/OrderBooking:Booking System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l9QjjrSsujgZHUUQO98-3" value="/IBarbershopMgt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="340" width="210" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
