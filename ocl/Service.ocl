@@ -1,0 +1,7 @@
+context Service::Service (name:String, price:Float, durationMinute:Int)
+    pre: self.nama < > null
+        and self.price < > null
+        and self.durationMinute < > null
+    post: self.nama = nama
+        and self.price = price
+        and self.duratonMinute = durationMinute

@@ -1,0 +1,12 @@
+context Barbershop::Barbershop (Name:String)
+    pre: self.nama < > null
+    post: self.nama = nama
+
+
+context Barbershop::Booking()
+    init: false
+    post: result = booked
+
+context Barbershop::orderService(): void
+    init: false
+    post: result = service

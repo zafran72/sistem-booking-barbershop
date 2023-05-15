@@ -1,0 +1,15 @@
+context Payment::pay(amount: float): Boolean
+    pre: self.payment = false
+    post: result self.payment = true
+
+
+context Payment::topUp(amount: float): void
+    init: false
+    inv: self.amount >=0
+    pre: self.amount>=topUp
+    post: self.payment = true
+
+    
+context Payment::getBalance(): float
+    init: false
+    post: self.getBalance = true
